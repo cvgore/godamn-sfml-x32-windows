@@ -1,3 +1,7 @@
+NOTE: This repository contains built version of SFML for Windows (x32) for internal projects
+
+---
+
 [![SFML logo](https://www.sfml-dev.org/images/logo.png)](https://www.sfml-dev.org)
 
 # SFML — Simple and Fast Multimedia Library
